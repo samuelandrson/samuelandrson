@@ -12,11 +12,13 @@
 
 - 🌱 I’m currently learning **Golang and Rust**
 
-- 👨‍💻 All of my projects are available at [https://surafel-portfolioo.vercel.app](https://surafel-portfolioo.vercel.app)
+- 👨‍💻 All of my projects are available at [https://surafel-portfolioo.vercel.app](https://surafel-portfolioo.vercel.app/project)
 
-- 📝 I regularly write articles on [https://dev.to](https://dev.to)
+- 📝 I regularly write articles on [https://dev.to](https://dev.to/thegreatsura)
 
-- 💬 Ask me about **React, next.js and MERN**
+- 💬 Ask me about **React, Next.js and MERN**
+
+- 📫 How to reach me **+251904536938**
 
 - 📫 How to reach me **samuelthegreat96@gmail.com**
 
