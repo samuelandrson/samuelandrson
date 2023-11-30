@@ -1,4 +1,5 @@
-[![MasterHead](https://d85gxhygowj8d.cloudfront.net/i7tzui%2Fpreview%2F54627689%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1701326761&Signature=PFUC~v~pnkmqR3x9ee56wVqK-DTFml~OMVnGs1ZWtt0jwqW9871HBlaRRFkBgFI0aYKSmQlnAZxsi2FjEZkZdUcDs0YrqXu-~bj3p9PRwQ7nw70Nkq8h5VZMn5or7nZa65M~tJdJzw7aGIDtxD1IWHn8Ljwi3IuY55P6765UDheXrv2951Op8PLIvPXRc5EIeRaNFBjmhY8ePYnx7l0WelKuDbU-4EY-FTiXvtMzHh0ePp75IzLZ9OjMcNOKdSYEAsNXeYLkWRTCrjMpL8pWvHr59gvJYQcM-HxMs7Y7OW3NmWGKBoJmW2~NiBDPZ7nwOyj7FHf1xYShCAfJCOyUNg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)](https://surafel-portfolioo.vercel.app)
+
+[![MasterHead](https://github.com/samuelandrson/samuelandrson/assets/120358555/914095d9-87a1-4b27-adaa-a1e406fd2abd)](https://surafel-portfolioo.vercel.app)
 
 
 
