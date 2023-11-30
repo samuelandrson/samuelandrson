@@ -1,8 +1,6 @@
+[![MasterHead](https://github.com/samuelandrson/samuelandrson/assets/120358555/2bf37d10-c5d4-49a3-a4c1-e921b2349b20)](https://surafel-portfolioo.vercel.app)
 
-[![MasterHead](https://github.com/samuelandrson/samuelandrson/assets/120358555/914095d9-87a1-4b27-adaa-a1e406fd2abd)](https://surafel-portfolioo.vercel.app)
-
-
-
+<!-- [![MasterHead](https://github.com/samuelandrson/samuelandrson/assets/120358555/914095d9-87a1-4b27-adaa-a1e406fd2abd)](https://surafel-portfolioo.vercel.app) -->
 
 <h1 align="center">Hi 👋, I'm Surafel Gudisa</h1>
 <h3 align="center">A software engineer from Ethiopia</h3>
